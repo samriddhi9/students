@@ -1,4 +1,6 @@
-[
+{
+  "posts" :
+  [
   {
     "name": "Shubham Shukla",
     "dateOfBirth": "27/09/10",
@@ -40,3 +42,4 @@
     "contact": "9932499999"
   }
 ]
+}
